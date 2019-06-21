@@ -4,5 +4,5 @@ if(n1>0):
 elif(n1<0):
   print("Negtive")
 else:
-  print("zero")
+  print("Zero")
 
